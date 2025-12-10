@@ -16,7 +16,7 @@ Object {
             title="remove product from cart"
           />
           <img
-            alt="Cropped Stay Groovy off white"
+            alt="Cropped Stay Groovy off black"
             class="CartProduct__Image-sc-11uohgb-7 dSflEM"
             src="8552515751438644-1-cart.webp"
           />
@@ -26,7 +26,7 @@ Object {
             <p
               class="CartProduct__Title-sc-11uohgb-2 jVsMjn"
             >
-              Cropped Stay Groovy off white
+              Cropped Stay Groovy off black
             </p>
             <p
               class="CartProduct__Desc-sc-11uohgb-3 bRgwLG"
@@ -176,7 +176,7 @@ Object {
           title="remove product from cart"
         />
         <img
-          alt="Cropped Stay Groovy off white"
+          alt="Cropped Stay Groovy off black"
           class="CartProduct__Image-sc-11uohgb-7 dSflEM"
           src="8552515751438644-1-cart.webp"
         />
@@ -186,7 +186,7 @@ Object {
           <p
             class="CartProduct__Title-sc-11uohgb-2 jVsMjn"
           >
-            Cropped Stay Groovy off white
+            Cropped Stay Groovy off black
           </p>
           <p
             class="CartProduct__Desc-sc-11uohgb-3 bRgwLG"

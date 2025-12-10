@@ -12,7 +12,7 @@ const mockProducts: IProduct[] = [
     price: 10.9,
     sku: 8552515751438644,
     style: 'White T-shirt',
-    title: 'Cropped Stay Groovy off white',
+    title: 'Cropped Stay Groovy off black',
   },
   {
     availableSizes: ['X', 'ML', 'L'],
