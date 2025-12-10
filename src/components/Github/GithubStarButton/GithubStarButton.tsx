@@ -1,7 +1,7 @@
 const StarButton = () => (
   <div className="star-button-container">
     <p>
-      <small>Leave a star on Github if this repository was useful :)</small>
+      <small>Leave a star on Github if this repository was useful because it is useful :)</small>
     </p>
     <a
       className="github-button"
